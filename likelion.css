@@ -1,0 +1,40 @@
+footer {
+    text-align: center;
+    background-color: #121212;
+    color: #919191;
+}
+p {
+    font-size: 30px;
+}
+
+.small-font {
+    font-size: 15px;
+}
+
+.big-font {
+    font-size: 30px;
+}
+
+.mainbox {
+    border: 2px dashed #919191;
+    width: 580px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.playlist {
+    text-align: center;
+
+}
+
+.img {
+    width: 50px;
+    height: 60px;
+
+}
+
+.smallest-font{
+    font-size: 12px;
+
+}
